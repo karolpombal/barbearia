@@ -1,9 +1,12 @@
-body {
-    background: #CCCCCC
+body {    
     }
 
 #banner {
     width: 100%;
+}
+
+.principal {
+    background: #cccccc;
 }
 
 hi {
@@ -22,6 +25,10 @@ hi {
     em strong {
         color: #FF0000;
     }
+
+.benefícios {
+    background: #FFFFFF;
+}
 
 .itens {
     font-style: italic;
