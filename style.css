@@ -16,6 +16,7 @@ hi {
     p {
         text-align: center;
         background: #CCCCCC
+        padding: 30px;
     }
 
 #missao {
@@ -28,6 +29,7 @@ hi {
 
 .benefícios {
     background: #FFFFFF;
+    padding: 20px;
 }
 
 .itens {
